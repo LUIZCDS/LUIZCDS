@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente eu trabalho em uma empresa do grupo Saint-Gobain **Como analista de Logística**
 
-- 🌱Atualmente eu estou aprendendo **Python e SQL**
+- 🌱Estou aprendendo **Python e SQL**
 
 - 💬 Me pergunte sobre **Power Bi e Excel**
 
